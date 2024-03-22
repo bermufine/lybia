@@ -9,21 +9,8 @@
 
 {"descriptionLy":"Lybia February Channel TV est l'une des chaines du Lybie avec des émissions et informations divers.","sourceLy":["https://b01c02nl.mediatriple.net/videoonlylive/mtfknklgwrlive/broadcast_5dc818c793576.smil/playlist.m3u8"],"subtitleLy":"By Channel","thumbLy":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","titleLy":"FEBRUARY CHANNEL"},
 
-{"descriptionLy":"Lybia Al Hadath TV est l'une des chaines du Lybie avec des émissions et informations divers.","sourceLy":["http://82.212.74.100:8000/live/8103.m3u8"],"subtitleLy":"By Channel","thumbLy":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","titleLy":"AL WASAT"},
-
-
-
-
-
-
-
+{"descriptionLy":"Lybia Al Masar TV est l'une des chaines du Lybie avec des émissions et informations divers.","sourceLy":["https://master.starmena-cloud.com/hls/almasar.m3u8"],"subtitleLy":"By Channel","thumbLy":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","titleLy":"AL MASAR"},
 
 {"descriptionLy":"Lybia Channel TV est l'une des chaines du Lybie avec des émissions et informations divers.","sourceLy":["https://master.starmena-cloud.com/hls/libyas.m3u8"],"subtitleLy":"By Channel","thumbLy":"https://od.lk/s/M18yNjk1NzY0MDlf/libyachannel.jpg","titleLy":"LYBIA CHANNEL TV"},
 
-{"descriptionLy":"Al Ahrar TV est l'une des chaines du Lybie avec des émissions et informations divers.","sourceLy":["https://video.zidivo.com/live983/GrtjM_FNGC/playlist.m3u8"],"subtitleLy":"By Channel","thumbLy":"https://od.lk/s/M18yNjk1NzU5MTZf/alahrar.jpg","titleLy":"AL AHRAR TV"},
-
-
-
-
-
-]}]}
+{"descriptionLy":"Al Ahrar TV est l'une des chaines du Lybie avec des émissions et informations divers.","sourceLy":["https://video.zidivo.com/live983/GrtjM_FNGC/playlist.m3u8"],"subtitleLy":"By Channel","thumbLy":"https://od.lk/s/M18yNjk1NzU5MTZf/alahrar.jpg","titleLy":"AL AHRAR TV"}]}]}
